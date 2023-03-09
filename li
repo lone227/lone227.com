@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!--keywords网站的关键词 -->
+		<meta name="keywords" content="星辰">
+		
+		<!--description网站的描述 -->
+		<meta name="description" contrnt="日常">
+		<!-- title网页标题 -->
+		<title>诗剑行</title>
+		<audio src="奇然 _ 沈谧仁 _ 邓寓君(等什么君) _ 小时姑娘 - 百战成诗 2燃情版 (全英雄台词).flac" autoplay="autoplay" loop="loop" controls="controls">
+			  <source src="奇然 _ 沈谧仁 _ 邓寓君(等什么君) _ 小时姑娘 - 百战成诗 2燃情版 (全英雄台词).flac" type="audio/mpeg"/>
+		</audio>
+	</head>
+	<!--body标签代表网页主体 -->
+	<body>
+		<!-- 标签标签 -->
+		<h1>一级</h1>
+		<h2>二级</h2>
+		<h3>三级</h3>
+		<h4>四级</h4>
+		
+		<!-- 段落标签 -->
+		<p>一号</p>
+		<p>二号</p>
+		<p>三号</p>
+		<p>四号</p>
+		
+		<!--水平线标签-->
+		<hr/>
+		
+		<!--换行标签-->
+		one <br/>
+		two <br/>
+		three <br/>
+		
+		<!--粗体，斜体-->
+		<h1>字体样式标签</h1>
+		
+		粗体: <strong>倾尽绿蚁花尽开</strong>
+		<br/>
+		斜体： <em>问潭底剑仙安在哉</em>
+		<br/>
+		
+		<!-- 特殊符号 -->
+		空    格
+		<br/>
+		空&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;格
+		
+		<br/>
+		
+		<!--大于符号-->
+		&gt
+		<br/>
+		
+		<!--小于符号-->
+		&lt;
+		<br/>
+		<!--版权符号 -->
+		&copy;
+		<br/>
+		&copy;one
+		<img src="1.jpg" alt="桌面" tiltle="悬停文字" width="300px" height="200px">
+		<a href="https://www.douyin.com/user/MS4wLjABAAAAyiUBvOEjnzVYHl3xyIopxDpk1e7ECR-TW10I14EdS80?modal_id=7180326561856441611">点击跳转到诗剑行CG</a>
+		<a href="https://www.hao123.com/?src=from_pc/"><img src="1.jpg" alt="桌面" width="1000px" height="1100px"</a>
+		<a name="top"></a>
+		<a href="#top">点击回到顶部</a>
+		
+	</body>
+</html>
